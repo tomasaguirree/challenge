@@ -1,0 +1,16 @@
+#header {
+    font-size: 18px !important;
+}
+
+ion-list {
+    background-color: transparent !important;
+
+    ion-item-sliding {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+.roundEdge {
+    border-radius: 5px;
+}
